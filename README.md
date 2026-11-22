@@ -99,6 +99,8 @@ If you find a problem while using a tool, have a question, or want to suggest a 
 
 ## Try DocuPulse.AI
 
-If you need a simple way to work with PDFs, images or everyday documents, you can explore the currently available toolsulse.AI – Free Online PDF, Image & Document Tools](https://getdocupulse.com/)**
+If you need a simple way to work with PDFs, images or everyday documents, explore the free online tools available on DocuPulse.AI.
+
+🌐 **[Visit DocuPulse.AI – Free Online PDF, Image & Document Tools](https://getdocupulse.com/)**
 
 *Practical tools for real everyday file work.*
